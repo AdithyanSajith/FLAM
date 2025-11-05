@@ -149,4 +149,4 @@ The source code is available at: [Your GitHub Repository Link Here]
 
 ## Demo
 
-A live demo of the CLI in action can be found here: [Link to CLI Demo Video Here]
+A live demo of the CLI in action can be found here: [https://drive.google.com/file/d/1Wcm127__rkNPK-FB54mnEHE-Vosy6hEw/view?usp=sharing](https://drive.google.com/file/d/1Wcm127__rkNPK-FB54mnEHE-Vosy6hEw/view?usp=sharing)
